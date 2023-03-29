@@ -1,7 +1,7 @@
 <div align=center>
      <h1>Pump Modpack</h1>
-    <a href="https://github.com/intergrav/Additive/issues">Report Bugs</a>
-    <a href="https://github.com/intergrav/Additive/issues">Request Features</a>
+    <a href="https://github.com/dangamerx7/pump-modpack/issues">Report Bugs</a>
+    <a href="https://github.com/dangamerx7/pump-modpack/issues">Request Features</a>
 </div>
 <br>
 
