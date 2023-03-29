@@ -49,6 +49,6 @@ Pump has a bunch of optimization mods, it is mostly for PvP like I have stated b
 Report issues at <a href="https://github.com/dangamerx7/Pump-Modpack/issues">here. </a>.
 
 # 🖥️ Mod List
-The <a href="https://modrinth.com/modpack/pump-modpack/version/0.0.1>modlist</a> is available here. 
+The <a href="https://modrinth.com/modpack/pump-modpack/version/0.0.1">modlist</a> is available here. 
 
 > *The base of this was taken from Additive, which was taken from sodium. I needed a good base okay, you cannot blame me.*
