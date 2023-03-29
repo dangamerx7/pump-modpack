@@ -27,7 +27,7 @@ Here is my low-end laptop running three instances of Minecraft: one is vanilla M
 The specs are - Intel HD Graphics 5500, 4 GB Ram, i3 5th Gen. It is running Atlas OS. 
 ## 📥 Installation 
 
-Download it from <a href="https://modrinth.com/modpack/pump-modpack/version/0.0.1">versions</a>. Then use launchers like Prism, ATLauncher to extract it into a launchable format. I recommend Prism Launcher. You can simply drag it into Prism Launcher then install it.
+Download it from <a href="https://modrinth.com/modpack/pump-modpack/version/0.0.1">versions</a> Then use launchers like Prism, ATLauncher to extract it into a launchable format. I recommend Prism Launcher. You can simply drag it into Prism Launcher then install it.
 
 ## 🔍 Features
 
