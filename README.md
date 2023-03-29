@@ -35,7 +35,7 @@ Download it from <a href="https://modrinth.com/modpack/pump-modpack/version/0.0.
 
 - Enhanced PvP Experience: BadPackets-fabric, VanillaIcecreamFix, TotemCounter, and Marlow's Crystal Optimizer can enhance the PvP experience by adding new weapons, armor, and abilities, as well as fixing game bugs related to totems and packet exploits.
 
-- Quality of Life Improvements: ChatHeads, Appleskin-fabric, BetterBeds, BetterHurtCam, MoreCulling, NotEnoughCrashes, and VoiceChat-fabric can improve the overall gameplay experience by adding new features like heads-up displays, better bed mechanics, crash reporting, and voice communication with other players.
+- Quality of Life Improvements: ChatHeads, Appleskin-fabric, BetterBeds, BetterHurtCam, MoreCulling and NotEnoughCrashes the overall gameplay experience by adding new features like heads-up displays, better bed mechanics and crash reporting
 
 - Building Assistance: Litematica-fabric can help players create better buildings and structures by allowing them to save and load building templates, as well as displaying holographic overlays for easy block placement.
 
