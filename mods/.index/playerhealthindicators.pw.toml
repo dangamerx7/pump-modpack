@@ -1,0 +1,14 @@
+name = "Player Health Indicators"
+filename = "PlayerHealthIndicators-1.0.1-1.19.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/dbu8vyp0/versions/1.0.1-1.19/PlayerHealthIndicators-1.0.1-1.19.jar"
+hash-format = "sha512"
+hash = "1d0e5e354861533a40ef328bfd1d41fe3d3a4f976aa00d84ca3f7febe9792c746287b7c70a88b7abfccd896bc63ad6bfa46cd77daf73eb34d8952586de9f268d"
+
+[update]
+[update.modrinth]
+mod-id = "dbu8vyp0"
+version = "PCvDeCFo"

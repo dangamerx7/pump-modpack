@@ -1,0 +1,14 @@
+[counterConfig]
+enabled = true
+separator = true
+colors = true
+showInTab = false
+[displayConfig]
+enabled = true
+x = -1
+y = -1
+useDefaultTotem = false
+colors = true
+coloredXpBar = false
+alwaysShowBar = false
+showPopCounter = false
