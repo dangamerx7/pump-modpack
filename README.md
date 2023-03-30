@@ -33,7 +33,7 @@ Download it from <a href="https://modrinth.com/modpack/pump-modpack/version/0.0.
 
 - Better Performance: Sodium-fabric, Lithium-fabric, ImmediatelyFast, Dynamic FPS and Krypton can help improve game performance on low-end PCs by optimizing your game.
 
-- Enhanced PvP Experience: BadPackets-fabric, VanillaIcecreamFix, TotemCounter, and Marlow's Crystal Optimizer can enhance the PvP experience by adding new weapons, armor, and abilities, as well as fixing game bugs related to totems and packet exploits.
+- Enhanced PvP Experience: BadPackets-fabric, VanillaIcecreamFix, TotemCounter, and Marlow's Crystal Optimizer can enhance the PvP experience by fixing game bugs, packet problems and improve crystal pvp.
 
 - Quality of Life Improvements: ChatHeads, Appleskin-fabric, BetterBeds, BetterHurtCam, MoreCulling and NotEnoughCrashes the overall gameplay experience by adding new features like heads-up displays, better bed mechanics and crash reporting
 
