@@ -1,8 +1,10 @@
+<div align=center>
+
 |        |        |
 | ------ | ------ |
 | Pump Modpack | <img src="https://media.discordapp.net/attachments/929553166972895253/1080815029177303060/BEEG_PUMPY_BOIII.png?width=359&height=359" width="100" height="100" style="margin-left: 10px;"> |
 |        |        |
-
+</div>
 
 <div align=center>
     <a href="https://github.com/dangamerx7/pump-modpack/issues">Report Bugs</a>
