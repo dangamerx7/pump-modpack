@@ -1,7 +1,14 @@
-<div align=center>
-
- Pump Modpack | <img src="https://media.discordapp.net/attachments/929553166972895253/1080815029177303060/BEEG_PUMPY_BOIII.png?width=359&height=359" width="100" height="100" style="margin-left: 10px;"> |
-|--------------|-------------------------------------------------------------------------------------------------------------------|
+<div align="center">
+  <table cellpadding="0" cellspacing="0" style="border-radius: 8px; overflow: hidden;">
+    <tr>
+      <td style="padding: 0;">
+        Pump Modpack
+      </td>
+      <td style="padding: 0;">
+        <img src="https://media.discordapp.net/attachments/929553166972895253/1080815029177303060/BEEG_PUMPY_BOIII.png?width=359&height=359" width="100" height="100" style="margin-left: 10px; border-radius: 8px;">
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align=center>
