@@ -23,17 +23,17 @@
 Here is my low-end laptop running three instances of Minecraft: one is vanilla Minecraft (control), the second is an unnamed popular modpack, and the third is my modpack.
 
 <h3> Vanilla</h3>
-<img src="https://media.discordapp.net/attachments/1090271674697527317/1090668145041223690/vanilla.png?width=1159&height=632" height=550, width=550>
+<img src="https://media.discordapp.net/attachments/1090271674697527317/1090668145041223690/vanilla.png?width=1159&height=632">
 <br>
 
 ### Un-named other modpack
-<img src="https://media.discordapp.net/attachments/1090271674697527317/1090668687276654612/adren.png?width=1159&height=632" height=550, width=550>
+<img src="https://media.discordapp.net/attachments/1090271674697527317/1090668687276654612/adren.png?width=1159&height=632">
 
 <br>
 
 ### My modpack
 
-<img src="https://media.discordapp.net/attachments/1090271674697527317/1090669294989352992/pumpss.png?width=1124&height=632" height=550, width=550> 
+<img src="https://media.discordapp.net/attachments/1090271674697527317/1090669294989352992/pumpss.png?width=1124&height=632"> 
 
 The specs are - Intel HD Graphics 5500, 4 GB Ram, i3 5th Gen. It is running Atlas OS. 
 ## 📥 Installation 
