@@ -1,5 +1,5 @@
 <div align="center">
-  <table cellpadding="0" cellspacing="0" style="border-radius: 8px; overflow: hidden;">
+  <table cellpadding="0" cellspacing="0" style="border-radius: 100px; overflow: hidden;">
     <tr>
       <td style="padding: 0;">
         Pump Modpack
