@@ -5,7 +5,7 @@
         Pump Modpack
       </td>
       <td style="padding: 0;">
-        <img src="https://media.discordapp.net/attachments/929553166972895253/1080815029177303060/BEEG_PUMPY_BOIII.png?width=359&height=359" width="100" height="100" style="margin-left: 10px; border-radius: 8px;">
+        <img src="https://media.discordapp.net/attachments/929553166972895253/1080815029177303060/BEEG_PUMPY_BOIII.png?width=359&height=359" width="100" height="100" style="margin-left: 10px; border-radius: 100px;">
       </td>
     </tr>
   </table>
