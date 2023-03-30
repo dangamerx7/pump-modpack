@@ -1,9 +1,9 @@
+| Pump Modpack | <img src="https://media.discordapp.net/attachments/929553166972895253/1080815029177303060/BEEG_PUMPY_BOIII.png?width=359&height=359" width="100" height="100" style="margin-left: 10px;"> |
+|--------------|-------------------------------------------------------------------------------------------------------------------|
 <div align=center>
-     <h1>Pump Modpack</h1>
     <a href="https://github.com/dangamerx7/pump-modpack/issues">Report Bugs</a>
     <a href="https://github.com/dangamerx7/pump-modpack/issues">Request Features</a>
 </div>
-<br>
 
 ### This modpack is optimized for high-performance and PvP experiences in Minecraft. It includes selected mods for game optimization and FPS improvement for low-end PCs. The modpack has been tested on a low-end PC, and its specifications and performance results can be found in the performance section. Enjoy a smoother Minecraft gameplay experience on your low-end PC with this optimized modpack.
 
@@ -12,22 +12,22 @@
 Here is my low-end laptop running three instances of Minecraft: one is vanilla Minecraft (control), the second is an unnamed popular modpack, and the third is my modpack.
 
 <h3> Vanilla</h3>
-<img src="https://media.discordapp.net/attachments/1090271674697527317/1090668145041223690/vanilla.png?width=1159&height=632">
+<img src="https://media.discordapp.net/attachments/1090271674697527317/1090668145041223690/vanilla.png?width=1159&height=632" height=550, width=550>
 <br>
 
 ### Un-named other modpack
-<img src="https://media.discordapp.net/attachments/1090271674697527317/1090668687276654612/adren.png?width=1159&height=632" >
+<img src="https://media.discordapp.net/attachments/1090271674697527317/1090668687276654612/adren.png?width=1159&height=632" height=550, width=550>
 
 <br>
 
 ### My modpack
 
-<img src="https://media.discordapp.net/attachments/1090271674697527317/1090669294989352992/pumpss.png?width=1124&height=632"> 
+<img src="https://media.discordapp.net/attachments/1090271674697527317/1090669294989352992/pumpss.png?width=1124&height=632" height=550, width=550> 
 
 The specs are - Intel HD Graphics 5500, 4 GB Ram, i3 5th Gen. It is running Atlas OS. 
 ## 📥 Installation 
 
-Download it from <a href="https://modrinth.com/modpack/pump-modpack/version/0.0.1">versions</a> Then use launchers like Prism, ATLauncher to extract it into a launchable format. I recommend Prism Launcher. You can simply drag it into Prism Launcher then install it.
+Download it from <a href="https://modrinth.com/modpack/pump-modpack/version/0.0.1">versions</a>. Then use launchers like Prism, ATLauncher to extract it into a launchable format. I recommend Prism Launcher. You can simply drag it into Prism Launcher then install it.
 
 ## 🔍 Features
 
@@ -41,14 +41,10 @@ Download it from <a href="https://modrinth.com/modpack/pump-modpack/version/0.0.
 
 ### And much more.
 
-## ⚙️ How it works
-
-Pump has a bunch of optimization mods, it is mostly for PvP like I have stated beforehand. It is also for low end PCs.
-
 ## 🐛 Reporting Issues
-Report issues at <a href="https://github.com/dangamerx7/Pump-Modpack/issues">here. </a>.
+Report issues at <a href="https://github.com/dangamerx7/Pump-Modpack/issues">here. </a>
 
 # 🖥️ Mod List
-The <a href="https://modrinth.com/modpack/pump-modpack/version/0.0.1">modlist</a> is available here. 
+The modlist is available <a href="https://modrinth.com/modpack/pump-modpack/version/0.0.1">here.</a> 
 
-> *The base of this was taken from Additive, which was taken from sodium. I needed a good base okay, you cannot blame me.*
+> *The readme of this was taken from Additive, which was taken from sodium. I needed a good base okay, you cannot blame me.*
