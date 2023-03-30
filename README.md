@@ -22,7 +22,7 @@
 
 Here is my low-end laptop running three instances of Minecraft: one is vanilla Minecraft (control), the second is an unnamed popular modpack, and the third is my modpack.
 
-<h3> Vanilla</h3>
+<h3>Vanilla</h3>
 <img src="https://media.discordapp.net/attachments/1090271674697527317/1090668145041223690/vanilla.png?width=1159&height=632">
 <br>
 
