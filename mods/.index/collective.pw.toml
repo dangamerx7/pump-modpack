@@ -1,0 +1,14 @@
+name = "Collective"
+filename = "collective-1.19.2-6.48.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/yxt2wRUF/collective-1.19.2-6.48.jar"
+hash-format = "sha512"
+hash = "20d6786e6a4a1a0fc3fcd9c81715c6938141ce719f949694da16aad02ee090bf5039739c1de30e3b1a16fcc7616555a72249fe39e0d0b3b9e876341c92bd97c3"
+
+[update]
+[update.modrinth]
+mod-id = "e0M1UDsY"
+version = "yxt2wRUF"

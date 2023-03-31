@@ -1,0 +1,14 @@
+name = "Methane"
+filename = "Methane - 1.6.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/pkI4SefA/versions/GjbssRT5/Methane - 1.6.3.jar"
+hash-format = "sha512"
+hash = "66b3d27af16f02976f0b334e2def9a3fa6d137874ea85beba3bae34f1beefd8b4ad6bd03e7c6fb1208d1e2630397615ff5fc444dd40a76a12d3bb424733bac8e"
+
+[update]
+[update.modrinth]
+mod-id = "pkI4SefA"
+version = "GjbssRT5"
