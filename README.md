@@ -11,7 +11,7 @@
   </table>
 </div>
 
-### THIS IS THE FABRIC VERISION. 
+### THIS IS THE QUILT VERISION. 
 
 <div align=center>
     <a href="https://github.com/dangamerx7/pump-modpack/issues">Report Bugs</a>
@@ -58,6 +58,6 @@ Download it from <a href="https://modrinth.com/modpack/pump-modpack/version/0.0.
 Report issues at <a href="https://github.com/dangamerx7/Pump-Modpack/issues">here. </a>
 
 # 🖥️ Mod List
-The modlist is available <a href="https://modrinth.com/modpack/pump-modpack/version/0.0.1">here.</a> 
+The modlist is available <a href="https://modrinth.com/modpack/pump-modpack/version/0.0.5">here.</a> 
 
 > *The readme of this was taken from Additive, which was taken from sodium. I needed a good base okay, you cannot blame me.*
