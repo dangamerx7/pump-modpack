@@ -60,4 +60,4 @@ Report issues at <a href="https://github.com/dangamerx7/Pump-Modpack/issues">her
 # 🖥️ Mod List
 The modlist is available <a href="https://modrinth.com/modpack/pump-modpack/version/0.0.1">here.</a> 
 
-> *The readme of this was taken from Additive, which was taken from sodium. I needed a good base okay, you cannot blame me.*
+> *This readme was inspired from Additive, which was taken from sodium. I needed a good base okay, you cannot blame me.*
