@@ -1,0 +1,13 @@
+filename = 'serverpingerfixer-1.0.4.jar'
+name = 'Server Pinger Fixer'
+side = 'client'
+
+[download]
+hash = '3362669e03fb8b70c7e90d5506e26971acd6cba6ed95b6042dd097af6f933e05a7801be79662830120eb76184eb624fbbfdde5fde9cba4bbdaad2896ed26d37b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iqK5uv72/versions/fHvfA2My/serverpingerfixer-1.0.4.jar'
+
+[update.modrinth]
+mod-id = 'iqK5uv72'
+version = 'fHvfA2My'

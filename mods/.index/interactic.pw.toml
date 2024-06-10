@@ -1,0 +1,13 @@
+filename = 'interactic-0.2.2+1.20.3.jar'
+name = 'Interactic'
+side = 'client'
+
+[download]
+hash = 'bd8f6d39b6002673624a8c3304cb91f80ee745eb971f4afd0f6abad22ff26810c2accd73b4275d016ebf45bb06169ab08412d915e98a62385643455a97e3ed04'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ErpAAAaf/versions/PYdrXIcA/interactic-0.2.2%2B1.20.3.jar'
+
+[update.modrinth]
+mod-id = 'ErpAAAaf'
+version = 'PYdrXIcA'

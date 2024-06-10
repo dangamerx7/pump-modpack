@@ -1,0 +1,13 @@
+filename = 'BadOptimizations-2.1.1.jar'
+name = 'BadOptimizations'
+side = 'client'
+
+[download]
+hash = 'f943c0cc1fc15074ecb9fa9aee9565148b785edd8a65e87f61c00ce46620e3f8105c2f22b81c0373171834835dc5ac594b6a1412a3b65b6232567376c8be8872'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/g96Z4WVZ/versions/zZYSuJ5b/BadOptimizations-2.1.1.jar'
+
+[update.modrinth]
+mod-id = 'g96Z4WVZ'
+version = 'zZYSuJ5b'

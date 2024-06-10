@@ -1,0 +1,13 @@
+filename = 'modmenu-9.2.0-beta.2.jar'
+name = 'Mod Menu'
+side = 'client'
+
+[download]
+hash = 'e8a73596f6ed279a9c4da7d2c0e9c5f08a8deb563626dcc47380be93f15cfcff9c12e2973317f6306cd53842b1eb0cdd62f4dbd75f580edb00476b3e4435331e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mOgUt4GM/versions/ybV7vGT5/modmenu-9.2.0-beta.2.jar'
+
+[update.modrinth]
+mod-id = 'mOgUt4GM'
+version = 'ybV7vGT5'

@@ -1,0 +1,13 @@
+filename = 'totemcounter-1.4.0+mc1.20.3.jar'
+name = 'TotemCounter'
+side = 'client'
+
+[download]
+hash = 'fbb30f8331566fe980acbd3e2e452383e4cd05ce99b533a0a0ac1752a5bdc57961ffcfc7f52df3c6ef1843e86dd6dc90f2f928263bbf5b37ebee3a78cd2deea5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/T9R7YTnA/versions/Q4fDDwII/totemcounter-1.4.0%2Bmc1.20.3.jar'
+
+[update.modrinth]
+mod-id = 'T9R7YTnA'
+version = 'Q4fDDwII'

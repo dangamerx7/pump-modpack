@@ -1,0 +1,13 @@
+filename = 'chat_heads-0.12.2-fabric-1.20.3.jar'
+name = 'Chat Heads'
+side = 'both'
+
+[download]
+hash = '486e6be2347e9b779efcfcf925a1dec0d4703220b792912fec371dbd8293718e61dcb9bb06ef77d6c4c14853fc65e67d855c493cda5189c391fbae8b7f6779f9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Wb5oqrBJ/versions/4KgMjBc7/chat_heads-0.12.2-fabric-1.20.3.jar'
+
+[update.modrinth]
+mod-id = 'Wb5oqrBJ'
+version = '4KgMjBc7'

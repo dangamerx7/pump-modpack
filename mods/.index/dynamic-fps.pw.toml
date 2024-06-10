@@ -1,0 +1,13 @@
+filename = 'dynamic-fps-3.4.3+minecraft-1.20.0-quilt.jar'
+name = 'Dynamic FPS'
+side = 'client'
+
+[download]
+hash = 'b4dbce76439b72b4e26ec3e9d5c56e2eb6065f5ef5e517541ec939b91fff41101284c66a5e78022f44873ecc33c0790356e6fc44a55b852f3f011a2192dfdc0e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LQ3K71Q1/versions/AK9FBEgo/dynamic-fps-3.4.3%2Bminecraft-1.20.0-quilt.jar'
+
+[update.modrinth]
+mod-id = 'LQ3K71Q1'
+version = 'AK9FBEgo'

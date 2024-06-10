@@ -1,0 +1,19 @@
+{
+  "modstate": true,
+  "hudrender": true,
+  "fogSettings": {
+    "persistFogSettings": false,
+    "disableAirFog": false,
+    "disableWaterFog": false,
+    "disableLavaFog": false,
+    "disablePowderedSnowFog": false,
+    "disableThickFog": false,
+    "disableSkyFog": false
+  },
+  "destructiveSettings": {
+    "destructiveweatheroptimizations": false,
+    "DestroySky": false,
+    "DestroyWeather": false,
+    "RenderLayerSkips": false
+  }
+}

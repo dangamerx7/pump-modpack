@@ -1,0 +1,13 @@
+filename = 'VanillaIcecreamFix-1.2.1-beta.jar'
+name = 'VanillaIcecreamFix'
+side = 'both'
+
+[download]
+hash = '8c2e64a7c3847c89a30889e4bc0c95c4d8059c451a4bb136271b0793000ed096e4d23fb4b14bea29e2d41a6e3b0304ac913b6f64f528c6b4fe9df49468432aff'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5HUqEye3/versions/B8RV5776/VanillaIcecreamFix-1.2.1-beta.jar'
+
+[update.modrinth]
+mod-id = '5HUqEye3'
+version = 'B8RV5776'

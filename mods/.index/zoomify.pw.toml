@@ -1,0 +1,13 @@
+filename = 'Zoomify-2.13.5+1.20.4.jar'
+name = 'Zoomify'
+side = 'both'
+
+[download]
+hash = '9a14c645b1d576bad42afd7f1427bdcaa2895f66c816d3d11449642ece67079c07aa4274c3f7258cfd7c4663077f7072664fb67cf21baeb40006875e50f70b30'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/w7ThoJFB/versions/OggLUOr6/Zoomify-2.13.5%2B1.20.4.jar'
+
+[update.modrinth]
+mod-id = 'w7ThoJFB'
+version = 'OggLUOr6'

@@ -1,0 +1,13 @@
+filename = 'YetAnotherConfigLib-3.4.4+1.20.4-fabric.jar'
+name = '${name}'
+side = 'both'
+
+[download]
+hash = 'ec167ff40fbb60ff542ef93d09db9dbbe1ae50f72f247fd1db4924b7b273e3a83df4b95b98e49987dc5fd4066a8312f3aee5c20b99792625bf2ca2a4fe2807e9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1eAoo2KR/versions/G2PcCpZl/YetAnotherConfigLib-3.4.4%2B1.20.4-fabric.jar'
+
+[update.modrinth]
+mod-id = '1eAoo2KR'
+version = 'G2PcCpZl'
